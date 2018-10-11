@@ -2,4 +2,4 @@
 Trial Cognizant Repository
 
 
-Just a simple repo for understainding Github operations.
+This time its gonna be added to the SIT branch.
